@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CGT215-Lab6-Pate2768/CGT215-Lab6-Pate2768.vcxproj" />
+</Solution>
